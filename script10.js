@@ -74,7 +74,7 @@ function signin(){
   
     
         <a href="https://www.colissimo.entreprise.laposte.fr/" rel="home" class="site-logo">
-      <img src="Espace%20r%C3%A9serv%C3%A9%20_%20Colissimo_files/colissimo.svg" alt="Accueil">
+      <img src="https://www.colissimo.entreprise.laposte.fr/themes/custom/pc_theme/colissimo.svg" alt="Accueil">
     </a>
           <div class="site-slogan">Colissimo Box</div>
   </div>
@@ -575,7 +575,7 @@ function signin(){
   <span class="mdc-notched-outline mdc-notched-outline--upgraded">
     <span class="mdc-notched-outline__leading"></span>
     <span class="mdc-notched-outline__notch">
-      <span class="mdc-floating-label mdc-floating-label--required" id="edit-login" style="">Identifiant</span>
+      <span class="mdc-floating-label" id="edit-login" style=""></span>
     </span>
     <span class="mdc-notched-outline__trailing"></span>
   </span>
@@ -596,7 +596,7 @@ function signin(){
   <span class="mdc-notched-outline mdc-notched-outline--upgraded">
     <span class="mdc-notched-outline__leading"></span>
     <span class="mdc-notched-outline__notch">
-      <span class="mdc-floating-label mdc-floating-label--required" id="edit-pass" style="">Mot de passe</span>
+      <!--<span class="mdc-floating-label mdc-floating-label--required" id="edit-pass" style="">Mot de passe</span>-->
     </span>
     <span class="mdc-notched-outline__trailing"></span>
   </span>
