@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/FormindTJU/XSS-Swagger-Poc/refs/heads/main/xss-fetch8.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/FormindTJU/XSS-Swagger-Poc/refs/heads/main/xss-fetch8.yaml",
+            "name": "XSS payload"
+        }
+    ]
+}
